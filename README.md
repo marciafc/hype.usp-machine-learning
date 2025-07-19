@@ -1,4 +1,4 @@
-# curso de Machine Learning do Hype-USP - 2025
+# Curso de Machine Learning do Hype-USP - 2025
 
 📆 Datas e Conteúdo
 
