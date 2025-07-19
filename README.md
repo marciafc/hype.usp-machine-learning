@@ -18,7 +18,7 @@ Youtube: https://m.youtube.com/@hype-data-and-ai
 
 ⛓ Links para as transmissões de cada aula
 
-Aula 1 (17/07) - https://youtube.com/live/VTriGN6YVMk
+Aula 1 (17/07) - https://www.youtube.com/live/VTriGN6YVMk
 ```
 Fundamentos de Machine Learning
 Problemas clássicos
@@ -26,8 +26,20 @@ Etapas de um projeto
 Modelos supervisionados e não supervisionados
 Métricas e avaliação
 ```
-  - [Atividade Prática do Dia 1 - Abrir com Google Colab](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXpZbXZxSlhOWlVrTHc1c0d6T0lMUlZVcF8zd3xBQ3Jtc0tudWQxSkdSMG1KRXVMbVZhcWNJR0RYZkZVN0hBZlBWUFhqVXRWMWt3MTUxazRYRkhoOUtiOE53YTI5T3BKN0x1WWJUNUFmNFpqc1NvdG4yRUtPcV90RERzWFdna0d6d0U0aXlqcGdTYTRGM2k2aVZKdw&q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1U9XBjs7rt5gDA0PtcW30yQIr-kQMomu5%2Fview%3Fusp%3Dsharing&v=VTriGN6YVMk)
+  - [Atividade Prática do Dia 1 - Abrir com Google Colab](https://colab.research.google.com/drive/1U9XBjs7rt5gDA0PtcW30yQIr-kQMomu5)
 
-Aula 2 (18/07) - https://youtube.com/live/IRv_G7pFzC0
+Aula 2 (18/07) - https://www.youtube.com/live/IRv_G7pFzC0
+```
+Machine Learning
+Problemas e Ferramentas
+Modelos lineares
+Modelos baseados em probabilidade e similaridade
+Regressões
+Recapitulação
+```
+  - [Atividade Prática do Dia 2 - Abrir com Google Colab](https://colab.research.google.com/drive/1brqoQT3bquWDoD6EWRRAh5b3VAJiKKid)
 
-Aula 3 (19/07) - https://youtube.com/live/kVxEam9kWO8
+Aula 3 (19/07) - https://www.youtube.com/live/kVxEam9kWO8
+```
+```
+  - [Atividade Prática do Dia 3 - Abrir com Google Colab](https://colab.research.google.com/drive/1mOEzr1-RzQ61DaiRCeTovnUeAYlEP2b6)
