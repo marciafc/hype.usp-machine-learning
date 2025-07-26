@@ -41,5 +41,9 @@ Recapitulação
 
 Aula 3 (19/07) - https://www.youtube.com/live/kVxEam9kWO8
 ```
+Árvores de decisão
+Random Forest
+Aprendizado por Reforço
+Clusterização
 ```
   - [Atividade Prática do Dia 3 - Abrir com Google Colab](https://colab.research.google.com/drive/1mOEzr1-RzQ61DaiRCeTovnUeAYlEP2b6)
